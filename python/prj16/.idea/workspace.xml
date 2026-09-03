@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a762dc16-fdc3-4277-bafe-596603d76bbc" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000036628" />
+      <entry key="S5" value="1.0000307336690892" />
+      <entry key="S10" value="1.0091302391975123" />
+      <entry key="S30" value="1.6675615879807135" />
+      <entry key="S60" value="3.683074056645648" />
+      <entry key="M2" value="7.804713383826921" />
+      <entry key="M5" value="14.7366377350639" />
+      <entry key="M10" value="18.966276409700903" />
+      <entry key="M15" value="20.73784571168161" />
+      <entry key="M30" value="22.737176125739108" />
+      <entry key="H1" value="23.833179873171698" />
+      <entry key="H2" value="24.407405985589264" />
+      <entry key="H4" value="24.701363983092477" />
+      <entry key="D1" value="24.949898742654717" />
+      <entry key="W1" value="24.992834581387733" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.4821156454218548E-66" />
+      <entry key="S2" value="5.498870048899287E-17" />
+      <entry key="S5" value="5.776081732239199E-7" />
+      <entry key="S10" value="0.0013059374567036149" />
+      <entry key="S30" value="0.22696980593414384" />
+      <entry key="S60" value="0.8249956908239068" />
+      <entry key="M2" value="1.573125318890972" />
+      <entry key="M5" value="2.3172481250160883" />
+      <entry key="M10" value="2.636610483618018" />
+      <entry key="M15" value="2.752564660073745" />
+      <entry key="M30" value="2.873619683390571" />
+      <entry key="H1" value="2.936129771252823" />
+      <entry key="H2" value="2.9678930327956285" />
+      <entry key="H4" value="2.9839033216203266" />
+      <entry key="D1" value="2.997311201238973" />
+      <entry key="W1" value="2.9996157382281288" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9592641193252643" />
+      <entry key="MS500" value="0.9917167307382933" />
+      <entry key="S2" value="0.9979227190006575" />
+      <entry key="S5" value="0.9991913458675288" />
+      <entry key="S10" value="1.0087543483555603" />
+      <entry key="S30" value="1.8680631897701885" />
+      <entry key="S60" value="4.467577581931601" />
+      <entry key="M2" value="9.340228067903421" />
+      <entry key="M5" value="17.03076426719389" />
+      <entry key="M10" value="21.589285872574543" />
+      <entry key="M15" value="23.48080882977369" />
+      <entry key="M30" value="25.60570317681785" />
+      <entry key="H1" value="26.766685191603404" />
+      <entry key="H2" value="27.37396655982418" />
+      <entry key="H4" value="27.68459592667119" />
+      <entry key="D1" value="27.94709732457924" />
+      <entry key="W1" value="27.992434213333127" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HCRrZvypMrgtvaz5ZaesqdLWkl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/dev/python/prj16&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="prj16pokemon" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.8665.309" />
+        <option value="bundled-python-sdk-c6d794e1806d-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.309" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a762dc16-fdc3-4277-bafe-596603d76bbc" name="변경" comment="" />
+      <created>1785370263712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785370263712</updated>
+      <workItem from="1785370264715" duration="629000" />
+      <workItem from="1785370903041" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/prj16$main.coverage" NAME="main 커버리지 결과" MODIFIED="1785370276513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

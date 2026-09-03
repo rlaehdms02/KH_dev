@@ -1,0 +1,8 @@
+print(int(10/5))
+print(int(10%3))
+print(2.3*4)
+print(50//15)
+print(123 == 123)
+print(123 != 123)
+print("123123" == 123123)
+print(not True)
