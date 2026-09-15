@@ -1,0 +1,56 @@
+#target{
+  width: 100px;
+  height: 100px;
+  margin: 100px;
+  border: 1px solid black;
+  background-color: blueviolet;
+}
+#target:active{
+  animation-play-state: paused;
+}
+#target:hover{
+
+  cursor: pointer;
+  animation-name: heartbeat;
+  /* animation-duration: 3s; */
+  /* animation-delay: 1s; */
+  animation-timing-function: linear;
+  animation-iteration-count: 4;
+  animation-direction: normal;
+  animation-fill-mode: both;
+  /* transform: translate(500px,0px);
+  transition: 1s; */
+  /* transition-delay:1s ; */
+  /* transition-duration: 3s; */
+  /* 일정한 속도로 */
+  /* transition-timing-function: linear; */
+  /* transition-timing-function: cubic-bezier(0,.45,1,-0.37); */
+}
+
+@keyframes naruto{
+  0%{
+  transform: rotate(0deg);}
+  
+  100%{
+  transform: rotate(360deg);}
+}
+@keyframes bounce{
+  0%,100%{border-radius: 99999px;
+  }
+  50%{
+  transform: translateY(-50px);
+    border-radius: 99999px;}
+}
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%      { transform: translateX(-12px) rotate(-6deg); }
+  40%      { transform: translateX(12px) rotate(6deg); }
+  60%      { transform: translateX(-8px) rotate(-4deg); }
+  80%      { transform: translateX(8px) rotate(4deg); }
+}
+@keyframes jelly {
+  0%, 100% { transform: scale(1, 1); }
+  30%      { transform: scale(1.3, 0.7); }
+  50%      { transform: scale(0.75, 1.25); }
+  70%      { transform: scale(1.15, 0.85); }
+}

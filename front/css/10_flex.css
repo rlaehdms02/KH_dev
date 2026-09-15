@@ -1,0 +1,43 @@
+.outer{
+  width: 500px;
+  height: 500px;
+  border: 3px solid black;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.inner{
+  width: 100px;
+  height: 100px;
+  border: 1px dashed gray;
+ 
+
+
+}
+.container{
+  width: 500px;
+  height: 500px;
+  border: 5px solid red;
+  display:flex;
+  justify-content: flex-start;
+  align-items: end;
+  flex-direction: row-reverse;
+
+  
+
+
+}
+.item{
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+  
+  display: flex;
+
+  
+}

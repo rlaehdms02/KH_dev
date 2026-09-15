@@ -1,0 +1,45 @@
+/* 
+#target03~ div{
+  background-color: red;
+} */
+/* #target03 :hover{
+  background-color: red;
+}  */
+/* #target03:active{
+  background-color: red;
+}  */
+  /* #target03:active{
+  background-color: red;
+}  */
+    /* .outer>div:first-child{
+  background-color: red;
+}  */
+      /* .outer>ul:first-child{
+  background-color: red;
+}  */
+    /* .outer>div:nth-child(2n){
+  background-color: red;
+}     */
+.outer>div:not(:nth-child(2n)){
+  background-color: red;
+} 
+input[name="hobby"]:checked{
+  width: 52px;
+  height: 50px;
+  
+}
+
+input[name="nickname"]:focus{
+  background-color: green;}
+
+/* p{
+  background-color: yellow;
+} */
+/* p::selection{
+  background-color: yellow;
+} */
+p::after{
+  content: 'nemo ';
+  background-color: yellow;
+}
+/* p 태그 를 여러개 쓰면  원하는 걸 뽑아낼수있다. */
